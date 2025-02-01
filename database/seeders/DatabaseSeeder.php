@@ -29,7 +29,7 @@ class DatabaseSeeder extends Seeder
         ]);
         User::factory()->create([
             'name' => 'wiwi',
-            'email' => 'wiwi@example.com',
+            'email' => 'riski@example.com',
             'role' => 'user',
             'password' => '1234567890'
         ]);
